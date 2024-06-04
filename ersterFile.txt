@@ -1,4 +1,3 @@
 erstezeile
 zweite Zeile
 dritte Zeile
-4 Zeile
